@@ -40,7 +40,7 @@ h1, h2, h3, h4 {
     padding: 2rem;
     /* SUBSTIIUA O LINK ABAIXO PELA SUA FOTO PRINCIPAL DE FUNDO */
     background: linear-gradient(rgba(10, 25, 47, 0.82), rgba(10, 25, 47, 0.95)), 
-                url('photos/foto-capa.jpg') center/cover no-repeat fixed;
+                url('foto-capa.jpg') center/cover no-repeat fixed;
 }
 
 .hero-content {
